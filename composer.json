@@ -34,10 +34,10 @@
         "php": ">=8.0",
         "composer/installers": "^2.0",
         "cweagans/composer-patches": "^1.0",
-        "drupal/core-composer-scaffold": "^11.0",
-        "drupal/core-project-message": "^11.0",
-        "drupal/core-recommended": "^11.0",
-        "drush/drush": "^13||^12.5",
+        "drupal/core-composer-scaffold": "^10||^11",
+        "drupal/core-project-message": "^10||^11",
+        "drupal/core-recommended": "^10||^11",
+        "drush/drush": "^12.5||^13",
         "guignonv/genoring_distrib": "1.0.x-dev"
     },
     "config": {
