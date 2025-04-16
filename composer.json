@@ -38,7 +38,7 @@
         "drupal/core-project-message": "^10||^11",
         "drupal/core-recommended": "^10||^11",
         "drush/drush": "^12.5||^13",
-        "guignonv/genoring_distrib": "^1.0@alpha"
+        "guignonv/genoring_distrib": "^1.0.x-dev"
     },
     "config": {
         "allow-plugins": {
