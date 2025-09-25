@@ -1,0 +1,14 @@
+{
+    "_readme": [
+        "Placeholder to avoid Composer warnings. Do not edit."
+    ],
+    "content-hash": "",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {}
+}
